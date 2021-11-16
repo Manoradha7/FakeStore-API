@@ -37,7 +37,7 @@ body {
 .card {
     width: 20%;
     background-color:honeydew;
-    height: auto;
+    height: 600px;
     box-shadow: 0 0 4px 3px pink;
     align-items: center;
     text-align: center;
@@ -47,6 +47,7 @@ body {
     box-shadow: 10px 10px 63px 0px rgba(156, 129, 30, 0.7);
     -webkit-box-shadow: 10px 10px 63px 0px rgba(156, 129, 30, 0.7);
     -moz-box-shadow: 10px 10px 63px 0px rgba(156, 129, 30, 0.7);
+    overflow-wrap: break-word;
 }
 
 .title {
